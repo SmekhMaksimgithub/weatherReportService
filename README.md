@@ -13,7 +13,7 @@
 * ####  Set database name, server password and username in application.properties
 ![изображение](doc/1.png)
 
-* ####  Set api key you in application.yaml
+* ####  Set api key in application.yaml
 ![изображение](doc/2.png)
 
 ### Rest service work example
