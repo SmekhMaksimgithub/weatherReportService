@@ -38,6 +38,7 @@ We can get more info
 ![изображение](doc/7.png)
 
 Edit it
+![изображение](doc/8.png)
 ![изображение](doc/9.png)
 
 Or delete
